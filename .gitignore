@@ -1,3 +1,4 @@
 #Test
 *.png
 *.jpg
+node_modules
